@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Music</string>
+    <string name="start">Start</string>
+    <string name="playOrder">playOrder</string>
+    <string name="clock">clock</string>
+    <string name="music_logo">music_logo</string>
+    <string name="music_list">""</string>
+    <string name="title_photo">""</string>
+    <string name="music_name">"告白气球"</string>
+    <string name="music_time">"3:12"</string>
+    <string name="music_author">"周二珂"</string>
+</resources>
